@@ -1,23 +1,4 @@
-`timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    11:54:41 10/09/2025 
-// Design Name: 
-// Module Name:    four_one_tristate 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps 
 module four_one_tristate(s0,s1,i0,i1,i2,i3,y);
 input i0,i1,i2,i3;
 input s0,s1;
