@@ -1,27 +1,4 @@
 `timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   12:51:59 10/14/2025
-// Design Name:   tff
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab4/tb/tff_tb.v
-// Project Name:  flipflips
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: tff
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module tff_tb;
 
 	// Inputs
