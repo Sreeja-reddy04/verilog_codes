@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   13:00:28 10/09/2025
-// Design Name:   four_one_tristate
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab1/tb/four_one_tristate_tb.v
-// Project Name:  FULL_ADDER
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: four_one_tristate
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module four_one_tristate_tb;
 
 	// Inputs
