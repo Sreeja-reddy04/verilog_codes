@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    09:07:54 10/08/2025 
-// Design Name: 
-// Module Name:    ripple_carry 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 module ripple_carry(a0,a1,a2,a3,b0,b1,b2,b3,c,sum0,sum1,sum2,sum3,carry);
 input a0,a1,a2,a3;
 input b0,b1,b2,b3;
