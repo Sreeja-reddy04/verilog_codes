@@ -1,27 +1,4 @@
 `timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   09:51:05 10/08/2025
-// Design Name:   ripple_carry
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab1/tb/ripple_carry_tb.v
-// Project Name:  FULL_ADDER
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: ripple_carry
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module ripple_carry_tb;
 
 	// Inputs
