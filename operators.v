@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    09:22:58 10/12/2025 
-// Design Name: 
-// Module Name:    operators 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
 module operators(a,b,sum,diff,mul,quot,rem,
 log_shift,arth_shift,reduct,bit_or,bit_neg,conc,relational);
 input [3:0]a,b;
