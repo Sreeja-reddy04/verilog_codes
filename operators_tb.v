@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   09:28:24 10/12/2025
-// Design Name:   operators
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab2/tb/operators_tb.v
-// Project Name:  mux_decoder
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: operators
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module operators_tb;
 
 	// Inputs
