@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   14:42:04 10/11/2025
-// Design Name:   threeto8_decoder
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab2/tb/threeto8_decoder_tb.v
-// Project Name:  mux_decoder
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: threeto8_decoder
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module threeto8_decoder_tb;
 
 	// Inputs
