@@ -1,27 +1,4 @@
 `timescale 1ns / 1ps
-
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   11:18:03 10/11/2025
-// Design Name:   foutto1
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab2/tb/fourto1_tb.v
-// Project Name:  fourto1_mux
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: foutto1
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module fourto1_tb;
 
 	// Inputs
