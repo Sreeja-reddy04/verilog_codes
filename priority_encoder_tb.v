@@ -1,27 +1,5 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   09:07:09 10/10/2025
-// Design Name:   priority_encoder
-// Module Name:   /home/vboxuser/3436-verilog_labs_f/Verilog_labs/lab1/FULL_ADDER/priority_encoder_tb.v
-// Project Name:  FULL_ADDER
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: priority_encoder
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
-
 module priority_encoder_tb;
 
 	// Inputs
